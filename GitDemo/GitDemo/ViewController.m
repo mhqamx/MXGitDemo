@@ -21,6 +21,7 @@
     self.view.backgroundColor = [UIColor redColor];
     self.title = @"test";
     // 切换回主线程
+    // 现在切回到主线程开发
     // Do any additional setup after loading the view, typically from a nib.
 }
 
