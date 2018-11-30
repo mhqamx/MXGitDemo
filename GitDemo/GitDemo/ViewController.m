@@ -20,6 +20,7 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
     self.title = @"test";
+    // 切换回主线程
     // Do any additional setup after loading the view, typically from a nib.
 }
 
